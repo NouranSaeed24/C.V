@@ -122,6 +122,25 @@ h2{
   letter-spacing: 1px;
 }
 
+.projects a {
+  text-decoration: none;
+  color: teal;
+  font-weight: bold;
+}
+
+.projects a:hover {
+  text-decoration: underline;
+}
+
+.education a {
+  text-decoration: none;
+  color: teal;
+  font-weight: bold;
+}
+
+.education a:hover {
+  text-decoration: underline;
+}
 
 @media screen and (max-width: 600px) {
   .cv {
