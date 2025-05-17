@@ -163,6 +163,16 @@ h2{
     flex-direction: column;
     gap: 5px;
     font-size: 14px;
+    display: flex;
+    align-items: center;
+  }
+
+  .details .separator {
+    display: none;
+  }
+
+  .details .info {
+    margin: 5px 0;
   }
 
   h1 {
